@@ -1,0 +1,7 @@
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\obj\Debug\dm_4.csproj.AssemblyReference.cache
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\obj\Debug\dm_4.csproj.CoreCompileInputs.cache
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\bin\Debug\dm_4.exe.config
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\bin\Debug\dm_4.exe
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\bin\Debug\dm_4.pdb
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\obj\Debug\dm_4.exe
+C:\Users\kotyo\Desktop\сюда кодитб\dm_4\obj\Debug\dm_4.pdb

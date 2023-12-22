@@ -1,0 +1,7 @@
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\bin\Debug\dm_3.exe.config
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\bin\Debug\dm_3.exe
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\bin\Debug\dm_3.pdb
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\obj\Debug\dm_3.csproj.AssemblyReference.cache
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\obj\Debug\dm_3.csproj.CoreCompileInputs.cache
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\obj\Debug\dm_3.exe
+C:\Users\kotyo\Desktop\сюда кодитб\dm_3\obj\Debug\dm_3.pdb
